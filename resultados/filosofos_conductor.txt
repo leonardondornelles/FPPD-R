@@ -1,0 +1,145 @@
+# 11 execuções de: go run ./filosofos -n 5 -r 200 -strategy conductor
+# Windows, AMD Ryzen 5 5600G (saídas copiadas do terminal)
+
+--- execução 1
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        17.595ms       53.815ms      
+1         200        17.216ms       48.454ms      
+2         200        17.25ms        51.361ms      
+3         200        17.499ms       50.021ms      
+4         200        17.305ms       49.297ms      
+
+Espera média geral: 17.373ms
+
+--- execução 2
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        11.013ms       46.034ms      
+1         200        11.114ms       42.021ms      
+2         200        11.348ms       44.872ms      
+3         200        11.06ms        44.195ms      
+4         200        11.032ms       50.706ms      
+
+Espera média geral: 11.114ms
+
+--- execução 3
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        19.647ms       52.244ms      
+1         200        19.66ms        50.933ms      
+2         200        19.897ms       50.409ms      
+3         200        19.986ms       49.737ms      
+4         200        19.614ms       51.932ms      
+
+Espera média geral: 19.761ms
+
+--- execução 4
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        18.512ms       50.998ms      
+1         200        18.499ms       51.722ms      
+2         200        18.729ms       46.399ms      
+3         200        18.678ms       53.459ms      
+4         200        18.643ms       50.709ms      
+
+Espera média geral: 18.612ms
+
+--- execução 5
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        19.282ms       49.604ms      
+1         200        19.341ms       47.645ms      
+2         200        18.995ms       50.637ms      
+3         200        19.178ms       50.144ms      
+4         200        19.334ms       47.248ms      
+
+Espera média geral: 19.226ms
+
+--- execução 6
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        22.95ms        54.006ms      
+1         200        23.019ms       49.097ms      
+2         200        22.944ms       49.13ms       
+3         200        23.12ms        45.215ms      
+4         200        22.974ms       45.85ms       
+
+Espera média geral: 23.001ms
+
+--- execução 7
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        23.79ms        54.615ms      
+1         200        23.924ms       49.364ms      
+2         200        23.777ms       49.295ms      
+3         200        23.96ms        49.551ms      
+4         200        23.838ms       45.61ms       
+
+Espera média geral: 23.858ms
+
+--- execução 8
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        26.702ms       50.826ms      
+1         200        27.082ms       49.959ms      
+2         200        27.098ms       50.412ms      
+3         200        26.981ms       50.174ms      
+4         200        26.75ms        49.367ms      
+
+Espera média geral: 26.923ms
+
+--- execução 9
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        14.359ms       52.592ms      
+1         200        14.197ms       46.504ms      
+2         200        14.438ms       44.254ms      
+3         200        14.631ms       48.471ms      
+4         200        14.509ms       47.881ms      
+
+Espera média geral: 14.427ms
+
+--- execução 10
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        15.329ms       45.691ms      
+1         200        15.481ms       49.906ms      
+2         200        15.457ms       47.637ms      
+3         200        15.519ms       54.001ms      
+4         200        15.379ms       48.753ms      
+
+Espera média geral: 15.433ms
+
+--- execução 11
+N=5 R=200 estratégia=conductor
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        19.362ms       48.955ms      
+1         200        19.485ms       50.046ms      
+2         200        19.512ms       47.585ms      
+3         200        19.532ms       48.804ms      
+4         200        19.424ms       49.161ms      
+
+Espera média geral: 19.463ms

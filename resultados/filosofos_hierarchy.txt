@@ -1,0 +1,132 @@
+# 10 execuções de: go run ./filosofos -n 5 -r 200 -strategy hierarchy
+# Windows, AMD Ryzen 5 5600G (saídas copiadas do terminal)
+
+--- execução 1
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.792ms        42.494ms      
+1         200        7.054ms        27.633ms      
+2         200        6.446ms        27.332ms      
+3         200        5.713ms        23.22ms       
+4         200        8.245ms        43.276ms      
+
+Espera média geral: 7.25ms
+
+--- execução 2
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.776ms        37.89ms       
+1         200        6.84ms         26.153ms      
+2         200        6.204ms        28.676ms      
+3         200        5.43ms         22.569ms      
+4         200        8.421ms        45.932ms      
+
+Espera média geral: 7.134ms
+
+--- execução 3
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.499ms        36.5ms        
+1         200        6.553ms        24.476ms      
+2         200        6.413ms        22.264ms      
+3         200        5.225ms        23.803ms      
+4         200        8.333ms        31.833ms      
+
+Espera média geral: 7.005ms
+
+--- execução 4
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.568ms        31.745ms      
+1         200        6.926ms        27.179ms      
+2         200        6.229ms        22.398ms      
+3         200        5.825ms        23.561ms      
+4         200        7.967ms        34.009ms      
+
+Espera média geral: 7.103ms
+
+--- execução 5
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.184ms        32.525ms      
+1         200        6.736ms        24.169ms      
+2         200        6.261ms        21.343ms      
+3         200        5.826ms        21.728ms      
+4         200        8.205ms        36.643ms      
+
+Espera média geral: 7.042ms
+
+--- execução 6
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.781ms        40.321ms      
+1         200        6.515ms        26.888ms      
+2         200        6.197ms        25.78ms       
+3         200        5.671ms        23.078ms      
+4         200        8.616ms        36.124ms      
+
+Espera média geral: 7.156ms
+
+--- execução 7
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.749ms        34.4ms        
+1         200        7.021ms        28.319ms      
+2         200        6.186ms        20.516ms      
+3         200        5.82ms         20.763ms      
+4         200        8.092ms        41.349ms      
+
+Espera média geral: 7.174ms
+
+--- execução 8
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.912ms        39.304ms      
+1         200        6.643ms        24.182ms      
+2         200        5.881ms        29.304ms      
+3         200        5.272ms        18.298ms      
+4         200        8.743ms        38.796ms      
+
+Espera média geral: 7.09ms
+
+--- execução 9
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.635ms        50.911ms      
+1         200        7.267ms        28.015ms      
+2         200        5.965ms        25.112ms      
+3         200        5.34ms         20.959ms      
+4         200        8.43ms         47.097ms      
+
+Espera média geral: 7.127ms
+
+--- execução 10
+N=5 R=200 estratégia=hierarchy
+Todos os filósofos terminaram as refeições.
+
+Filósofo  Refeições  Espera média   Espera máxima 
+0         200        8.84ms         37.347ms      
+1         200        7.427ms        31.342ms      
+2         200        5.935ms        22.901ms      
+3         200        5.759ms        23.644ms      
+4         200        8.654ms        47.552ms      
+
+Espera média geral: 7.323ms
